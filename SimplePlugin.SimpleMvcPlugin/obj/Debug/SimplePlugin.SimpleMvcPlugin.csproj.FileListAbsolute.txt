@@ -1,0 +1,7 @@
+D:\tools\development tools\GItHub\SimplePlugin\SimplePlugin.Web\Plugins\SimpleMvcPlugin\Views\SimpleMvcPlugin\Index.cshtml
+D:\tools\development tools\GItHub\SimplePlugin\SimplePlugin.Web\Plugins\SimpleMvcPlugin\web.config
+D:\tools\development tools\GItHub\SimplePlugin\SimplePlugin.Web\Plugins\SimpleMvcPlugin\SimplePlugin.SimpleMvcPlugin.dll
+D:\tools\development tools\GItHub\SimplePlugin\SimplePlugin.Web\Plugins\SimpleMvcPlugin\SimplePlugin.SimpleMvcPlugin.pdb
+D:\tools\development tools\GItHub\SimplePlugin\SimplePlugin.SimpleMvcPlugin\obj\Debug\SimplePlugin.SimpleMvcPlugin.csprojResolveAssemblyReference.cache
+D:\tools\development tools\GItHub\SimplePlugin\SimplePlugin.SimpleMvcPlugin\obj\Debug\SimplePlugin.SimpleMvcPlugin.dll
+D:\tools\development tools\GItHub\SimplePlugin\SimplePlugin.SimpleMvcPlugin\obj\Debug\SimplePlugin.SimpleMvcPlugin.pdb

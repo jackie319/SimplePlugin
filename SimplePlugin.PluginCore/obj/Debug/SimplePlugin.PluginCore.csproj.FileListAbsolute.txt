@@ -1,0 +1,4 @@
+D:\tools\development tools\GItHub\SimplePlugin\SimplePlugin.PluginCore\bin\Debug\SimplePlugin.PluginCore.dll
+D:\tools\development tools\GItHub\SimplePlugin\SimplePlugin.PluginCore\bin\Debug\SimplePlugin.PluginCore.pdb
+D:\tools\development tools\GItHub\SimplePlugin\SimplePlugin.PluginCore\obj\Debug\SimplePlugin.PluginCore.dll
+D:\tools\development tools\GItHub\SimplePlugin\SimplePlugin.PluginCore\obj\Debug\SimplePlugin.PluginCore.pdb
